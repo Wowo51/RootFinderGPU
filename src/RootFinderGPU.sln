@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootFinderGPU", "RootFinderGPU\RootFinderGPU.csproj", "{455022AE-3D96-4556-BBE5-B8833C5B4E67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RootFinderGPUTest", "RootFinderGPUTest\RootFinderGPUTest.csproj", "{F1F4CC78-75BF-4ABF-A055-FFF8ED601CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455022AE-3D96-4556-BBE5-B8833C5B4E67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455022AE-3D96-4556-BBE5-B8833C5B4E67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455022AE-3D96-4556-BBE5-B8833C5B4E67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455022AE-3D96-4556-BBE5-B8833C5B4E67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F4CC78-75BF-4ABF-A055-FFF8ED601CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F4CC78-75BF-4ABF-A055-FFF8ED601CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F4CC78-75BF-4ABF-A055-FFF8ED601CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F4CC78-75BF-4ABF-A055-FFF8ED601CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E752894-9230-41DE-A6C8-905D825D5316}
+	EndGlobalSection
+EndGlobal
