@@ -10,7 +10,7 @@ RootFinderGPU is free for non-commercial use, free to test. You need a commercia
 [Commercial license, purchasing info.](https://transcendai.tech/paylanding.html)</br>
 </br>
 RootFinderGPU was built with Raven. Raven is an autonomous AI ReAct agent with first class C# code generation support.</br>
-[Raven, 10x coder = 1/10 cost. Free estimates.](https://transcendai.tech)</br>
+[Raven, 10x coder = 1/10 cost. Calculate your estimate.](https://transcendai.tech)</br>
 ![AI Image](RavenTextA.jpg)
 </br>
 Copyright [TranscendAI.tech](https://TranscendAI.tech) 2025.<br>
